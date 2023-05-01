@@ -1,1 +1,14 @@
+MatikanBot = false
+hargapack = 20000-- HARGA PACK
+namapack = "world_lock_10_pack" -- NAMA PACK
+iditempack = {242}
 
+RingkasWorldName = true
+targetinfo = 5
+TilePNB = 3
+InfoLoop = true
+TakePickaxe = true
+
+Istirahat = true
+JamTidur = {4, 8, 15, 17, 21}
+DelayTidur = 60
